@@ -17,6 +17,7 @@ Python Wordlist_Builder.py -F [Path to folder]
 ### Example
 
 Python Wordlist_Builder.py -f1 Wordlist1.txt -f2 Wordlist2.txt
+
 Python Wordlist_Builder.py -F C:\Wordlists\
 
 ## Issues
